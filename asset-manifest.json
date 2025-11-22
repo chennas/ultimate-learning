@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ultimate-learning/static/css/main.449bfb94.css",
-    "main.js": "/ultimate-learning/static/js/main.b2901c3b.js",
+    "main.css": "/ultimate-learning/static/css/main.2d9b5090.css",
+    "main.js": "/ultimate-learning/static/js/main.c526ecaf.js",
     "static/js/627.e15f5c44.chunk.js": "/ultimate-learning/static/js/627.e15f5c44.chunk.js",
     "static/js/744.5c48cbc6.chunk.js": "/ultimate-learning/static/js/744.5c48cbc6.chunk.js",
     "static/js/7.5741d3c6.chunk.js": "/ultimate-learning/static/js/7.5741d3c6.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/371.53b4a665.chunk.js": "/ultimate-learning/static/js/371.53b4a665.chunk.js",
     "static/js/453.735b50b6.chunk.js": "/ultimate-learning/static/js/453.735b50b6.chunk.js",
     "index.html": "/ultimate-learning/index.html",
-    "main.449bfb94.css.map": "/ultimate-learning/static/css/main.449bfb94.css.map",
-    "main.b2901c3b.js.map": "/ultimate-learning/static/js/main.b2901c3b.js.map",
+    "main.2d9b5090.css.map": "/ultimate-learning/static/css/main.2d9b5090.css.map",
+    "main.c526ecaf.js.map": "/ultimate-learning/static/js/main.c526ecaf.js.map",
     "453.735b50b6.chunk.js.map": "/ultimate-learning/static/js/453.735b50b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.449bfb94.css",
-    "static/js/main.b2901c3b.js"
+    "static/css/main.2d9b5090.css",
+    "static/js/main.c526ecaf.js"
   ]
 }
